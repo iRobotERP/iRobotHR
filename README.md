@@ -1,4 +1,4 @@
 iRobotHR
 ========
 
-a good HR Softs by ruby
+a good HR Softs by Rails.
